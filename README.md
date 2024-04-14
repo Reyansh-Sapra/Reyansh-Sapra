@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Reyansh-Sapra
-- 👀 I’m interested in ... coding and software devlopment
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... stuff
-- 📫 How to reach me ... email: saprarey21@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... im da best!
+- 👀 I’m interested in coding and software devlopment
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on stuff
+- 📫 How to reach me email: saprarey21@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im da best!
 
 <!---
 Reyansh-Sapra/Reyansh-Sapra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
